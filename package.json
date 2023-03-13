@@ -123,7 +123,7 @@
     "useragent-generator": "1.1.1-amkt-22079-finish.0",
     "uuid": "8.3.2",
     "validator": "13.7.0",
-    "ws": "8.12.0"
+    "ws": "8.13.0"
   },
   "devDependencies": {
     "@commitlint/cli": "17.4.2",
